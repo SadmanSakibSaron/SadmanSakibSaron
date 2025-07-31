@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SadmanSakibSaron. Designer | Data Science Novice | Human.
 - 👀 I’m interested in Applying Machine Learning and Computer Vision at Civil Engineering.
-- 🌱 I’m currently learning Machine Learning and having a hard time at it.
 - 📫 Reach me Via sadmansaron1@gmail.com
 
 <!---
